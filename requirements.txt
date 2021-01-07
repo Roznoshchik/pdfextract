@@ -7,7 +7,7 @@ EbookLib==0.17.1
 extract-msg==0.23.1
 IMAPClient==2.1.0
 joblib==0.16.0
-lxml==4.5.1
+lxml==4.6.2
 nltk==3.5
 olefile==0.46
 pdfminer.six==20181108
